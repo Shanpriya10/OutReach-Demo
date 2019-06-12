@@ -1,0 +1,21 @@
+[
+   {
+      "Engagementreport":{
+			"labels" : ["=1",">1 & <5",">5"],
+			"data" : [12,44,23]
+		},
+	   "discreport":{
+			"labels" : ["Once/Quarter","Once/month","Avg volunteers(time)","Count since last Volunteer"],
+			"data" : [33,77,11,15]
+		},
+	   "bandwidthreport":{
+			"labels" : ["No. of Volunteers/month","Repeated volunteers/month"],
+			"data" : [2,4]
+		},
+	   "newaccountsreport":{
+	   "SelectData":["Month","Date","Day","Weekday-weekend"],
+			"labels" : ["Unique Volunteers","Volunteering hrs","% & No.of volunteering effort"],
+			"data" : [4,7,2]
+		}
+   }
+]
